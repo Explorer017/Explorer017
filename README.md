@@ -6,13 +6,14 @@
 
 Hello all who have stumbled upon my GitHub! I am a student studying A-Level Computer Science. This is where you can find my programming projects. I am experienced in C# and Python, and I also know some C++ and Unity. I am currently developing an instant messenger called SharpChat, which is a simple chat application that I am developing in C#. Feel free to look around, contribute to, and star my projects!
 
-
+<div align="center">
 <a href="https://github.com/Explorer017/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer017&hide=shaderlab,hlsl&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/Explorer017/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Explorer017&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
 </a>
+</div>
 <hr>
 
 <div align="center">
