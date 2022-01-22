@@ -8,10 +8,10 @@ Hello all who have stumbled upon my GitHub! I am a student studying A-Level Comp
 
 <div align="center">
 <a href="https://github.com/Explorer017/">
-  <img align="center" src="/github-metrics.svg" , width = 425 />
+  <img align="center" src="/github-metrics.svg" , width = 400 />
 </a>
 <a href="https://github.com/Explorer017/">
-  <img align="center" src="/github-metrics-2.svg" , width = 425 />
+  <img align="center" src="/github-metrics-2.svg" , width = 400 />
 </a>
 </div>
 <hr>
