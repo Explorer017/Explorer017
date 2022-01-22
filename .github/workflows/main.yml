@@ -31,4 +31,4 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_ignored: ShaderLab, HLSL
           plugin_repositories: yes
-          plugin_repositories_featured: Explorer017/SharpChat, Explorer017/XmasEveCounter, Finder/FinderDiscord
+          plugin_repositories_featured: Explorer017/SharpChat, Explorer017/XmasEveCounter, FinderDiscord/Finder
