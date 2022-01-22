@@ -32,3 +32,7 @@ jobs:
           plugin_languages_ignored: ShaderLab, HLSL
           plugin_repositories: yes
           plugin_repositories_featured: Explorer017/SharpChat, Explorer017/XmasEveCounter, FinderDiscord/Finder
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
