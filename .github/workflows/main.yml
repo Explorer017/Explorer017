@@ -14,6 +14,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
           config_timezone: Europe/London
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
