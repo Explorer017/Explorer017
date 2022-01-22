@@ -26,6 +26,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: languages.svg
+          base: ""
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           
