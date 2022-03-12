@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Explorer017?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/Explorer017?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 
-Hello all who have stumbled upon my GitHub! I am a student studying A-Level Computer Science. This is where you can find my programming projects. I am experienced in C# and Python, and I also know some C++ and Unity. I am currently working on a project called [SharpChat](https://github.com/Explorer017/SharpChat), which is a simple chat application that I am developing in C#. Feel free to look around, contribute to, and star my projects!
+Hello all who have stumbled upon my GitHub! I am a student studying A-Level Computer Science. This is where you can find my programming projects. I am experienced in C# and Python, and I also know some C++ and Unity. Feel free to look around, contribute to, and star my projects!
 
 <div align="center">
 <a href="https://github.com/Explorer017/">
