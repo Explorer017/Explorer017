@@ -31,7 +31,7 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_ignored: ShaderLab, HLSL
           plugin_repositories: yes
-          plugin_repositories_featured: Explorer017/SharpChat, Explorer017/XmasEveCounter, FinderDiscord/Finder, Explorer017/BritishTrainsDepartureBoard
+          plugin_repositories_featured: Explorer017/SharpChat, Explorer017/XmasEveCounter, FinderDiscord/Finder, Explorer017/SpaceGame
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
