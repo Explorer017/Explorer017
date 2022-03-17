@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.29540510405377" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="374.29540510405377" y="0" width="22.133628587691323" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.4290336917451" y="0" width="21.4485657031914" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.87759939493645" y="0" width="20.10713366757374" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="437.9847330625102" y="0" width="12.008327420448964" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="449.9930604829592" y="0" width="10.006939517040802" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.69420360152793" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="376.69420360152793" y="0" width="21.514127205481113" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="398.208330807009" y="0" width="20.848238646698597" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="419.05656945370765" y="0" width="19.544352149396715" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="438.6009216031044" y="0" width="11.672224580124901" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.2731461832293" y="0" width="9.72685381677075" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>81.37%</div>
+                                <div>81.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>4.66%</div>
+                                <div>4.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>2.61%</div>
+                                <div>2.54%</div>
                             </small>
                         </div>
                     </section>
@@ -73,7 +73,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>4.81%</div>
+                                <div>4.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -84,7 +84,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>4.37%</div>
+                                <div>4.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>2.18%</div>
+                                <div>2.11%</div>
                             </small>
                         </div>
                     </section>
@@ -273,7 +273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Explorer017/SpaceGame</span>
-                                        <span>created 4 days ago</span>
+                                        <span>created 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
