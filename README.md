@@ -10,19 +10,19 @@ Some of my best projects are:
 <br><br>
 <div align="center">
 <a href="https://github.com/Explorer017/XmasEveCounter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=XmasEveCounter&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=XmasEveCounter&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Explorer017/BritishTrainsDepartureBoard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=BritishTrainsDepartureBoard&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=BritishTrainsDepartureBoard&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Explorer017/SharpChat-Legacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=SharpChat-Legacy&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=SharpChat-Legacy&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Explorer017/GMTK-GameJam-Entry-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=GMTK-GameJam-Entry-2021&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explorer017&repo=GMTK-GameJam-Entry-2021&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <hr>
