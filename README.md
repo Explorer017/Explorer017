@@ -1,10 +1,10 @@
 
-# Greetings!
+# Hey!
 
 ![GitHub followers](https://img.shields.io/github/followers/Explorer017?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/Explorer017?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 
-Hello! I am a CS student, and I like to program things in my free time (mainly in C# and Python). Feel free to have a look at my projects, and if you have any questions, feel free to contact me. 
+I am a CS student, and I like to program things in my free time (mainly in C# and Python). Feel free to have a look at my projects, and if you have any questions, feel free to contact me. 
 <hr>
 Some of my best projects are:
 <br><br>
